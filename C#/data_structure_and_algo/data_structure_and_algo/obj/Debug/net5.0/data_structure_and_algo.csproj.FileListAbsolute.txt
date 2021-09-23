@@ -1,0 +1,16 @@
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.exe
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.deps.json
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.runtimeconfig.json
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.runtimeconfig.dev.json
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.dll
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\ref\data_structure_and_algo.dll
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\bin\Debug\net5.0\data_structure_and_algo.pdb
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.csproj.AssemblyReference.cache
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.AssemblyInfoInputs.cache
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.AssemblyInfo.cs
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.csproj.CoreCompileInputs.cache
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.dll
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\ref\data_structure_and_algo.dll
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.pdb
+F:\Programming\C#\ConsoleApps\data_structure_and_algo\data_structure_and_algo\obj\Debug\net5.0\data_structure_and_algo.genruntimeconfig.cache

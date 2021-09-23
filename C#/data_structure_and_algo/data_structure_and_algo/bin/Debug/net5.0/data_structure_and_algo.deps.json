@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "data_structure_and_algo/1.0.0": {
+        "runtime": {
+          "data_structure_and_algo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "data_structure_and_algo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
